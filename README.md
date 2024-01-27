@@ -1,2 +1,2 @@
-# vercelapp
-The temporary Vercel application.
+# soon-page
+The temporary soon page application.
